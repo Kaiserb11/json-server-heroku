@@ -2,237 +2,64 @@
   "results" : [
   
     {
-      "objectId": "MVlgfruisx",
-      "min_order": "1 Kg",
-      "createdAt": "2020-01-01T11:37:04.275Z",
-      "updatedAt": "2020-01-23T03:31:06.658Z",
-      "list_name": "Passionfruit",
-      "list_price": "₹ 60/kg",
-      "list_category": "vegetables",
-      "list_desc": "Vayanadan Tapioca, fresh without black spots ",
-      "list_title": "Vayanadan Tapioca",
-      "list_img": {
-        "__type": "File",
-        "name": "dff8d9d3c659a6a070e38a90fbb73ecd_Passionfruit.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/dff8d9d3c659a6a070e38a90fbb73ecd_Passionfruit.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 1
+      "objectId": "General Physician"
+      
     },
     {
-      "objectId": "iR31SQKqDL",
-      "list_price": "₹ 400/kg",
-      "createdAt": "2020-01-01T12:04:43.174Z",
-      "updatedAt": "2020-01-23T03:30:30.008Z",
-      "list_name": "Kanthari Chilli",
-      "min_order": "100 grams",
-      "list_category": "vegetables",
-      "list_desc": "Kanthari Chilli or Bird eye chilli good to control bad cholesterol ",
-      "list_title": "Kanthari Chilli",
-      "active": true,
-      "pushed": true,
-      "list_img": {
-        "__type": "File",
-        "name": "232b00c18eb1ff203242dcb04a3fa101_Kanthari.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/232b00c18eb1ff203242dcb04a3fa101_Kanthari.jpeg"
-      },
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 1
+      "objectId": "Anesthesiologists"
+      
     },
     {
-      "objectId": "l8qiTTGV7r",
-      "list_price": "₹ 80 /kg",
-      "createdAt": "2020-01-01T12:06:15.550Z",
-      "updatedAt": "2020-01-21T11:55:02.051Z",
-      "list_name": "Njali Poovan Banana",
-      "list_category": "fruits",
-      "min_order": "1 Kg",
-      "list_desc": "Njali Poovan Banana",
-      "list_title": "Njali Poovan Banana",
-      "list_type": "S"
+      "objectId": "Cardiologists"
+      
     },
     {
-      "objectId": "9rECtkDF8X",
-      "list_category": "oil",
-      "createdAt": "2020-01-01T12:07:06.091Z",
-      "updatedAt": "2020-01-21T11:55:01.020Z",
-      "list_name": "Coconut Oil",
-      "list_price": "₹ 280/kg",
-      "min_order": "1 Kg",
-      "list_desc": "Coconut Oil",
-      "list_title": "Coconut Oil ",
-      "list_type": "S"
+      "objectId": "Dermatologists"
+      
     },
     {
-      "objectId": "adnMP0SY3m",
-      "list_category": "Vegetables",
-      "createdAt": "2020-01-01T12:07:41.958Z",
-      "updatedAt": "2020-01-26T15:47:41.817Z",
-      "list_name": "Elephant foot Yam",
-      "list_price": "₹ 75 /kg",
-      "min_order": "1 Kg",
-      "list_img": {
-        "__type": "File",
-        "name": "edcae1e0bc4b1b983eeda7a92a1cdd69_Chena.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/edcae1e0bc4b1b983eeda7a92a1cdd69_Chena.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Elephant foot Yam, kerala taste ",
-      "list_title": "Elephant foot Yam(Chena)",
-      "rating": 2.5,
-      "rating_count": 3,
-      "list_type": "S"
+      "objectId": "Endocrinologists"
+      
     },
     {
-      "objectId": "em16RwvBMU",
-      "list_category": "vegetables",
-      "createdAt": "2020-01-01T12:08:01.682Z",
-      "updatedAt": "2020-01-23T03:29:57.224Z",
-      "list_name": "Colocasia",
-      "list_price": "₹ 50 /kg",
-      "min_order": "500 grams",
-      "list_img": {
-        "__type": "File",
-        "name": "233e8bf70f65c6b1f424f55436a4ad70_Chembu.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/233e8bf70f65c6b1f424f55436a4ad70_Chembu.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Colocasia cultivated by Wynadan Farmers ",
-      "list_title": "Colocasia (Chembu)",
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 1
+      "objectId": "Hematologists"
+      
     },
     {
-      "objectId": "nsF2ZKFuwP",
-      "list_category": "vegetables",
-      "createdAt": "2020-01-01T12:08:11.190Z",
-      "updatedAt": "2020-01-26T15:45:12.906Z",
-      "list_name": "Kudampuli",
-      "list_price": "₹ 400/kg",
-      "min_order": "250 gram",
-      "list_img": {
-        "__type": "File",
-        "name": "74fcb81fc9a5b443afca8451aae47265_Kudampuli.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/74fcb81fc9a5b443afca8451aae47265_Kudampuli.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Best quality Kudampuli",
-      "list_title": "Kudampuli",
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 2
+      "objectId": "Internists"
+      
     },
     {
-      "objectId": "LGO62D7gDL",
-      "list_category": "others",
-      "createdAt": "2020-01-01T12:08:23.539Z",
-      "updatedAt": "2020-01-23T03:33:34.512Z",
-      "list_name": "Koorka",
-      "list_price": "₹ 80 /kg",
-      "min_order": "500 gram",
-      "list_img": {
-        "__type": "File",
-        "name": "3256b30286d22ec17e0b6ebbbd2d8cf1_Koorkka.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/3256b30286d22ec17e0b6ebbbd2d8cf1_Koorkka.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Koorka sourced directly from Farmers",
-      "list_title": "Koorka",
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 1
+      "objectId": "Neurologists"
+      
     },
     {
-      "objectId": "xea1IdCoz4",
-      "list_category": "fruits",
-      "createdAt": "2020-01-01T12:08:38.126Z",
-      "updatedAt": "2020-01-21T11:55:02.279Z",
-      "list_name": "Wild Honey",
-      "list_price": "₹ 500 /kg",
-      "min_order": "1 kg",
-      "list_img": {
-        "__type": "File",
-        "name": "1dc0de7c5f3142f6b2b04e4bf7b1db2a_Honey.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/1dc0de7c5f3142f6b2b04e4bf7b1db2a_Honey.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Wild Honey collected from hills of Wynad",
-      "list_title": "Wild Honey",
-      "rating": 5,
-      "rating_count": 1,
-      "list_type": "S"
+      "objectId": "Gynecologists"
+      
     },
     {
-      "objectId": "zQzjtqEbGH",
-      "list_category": "others",
-      "createdAt": "2020-01-01T12:08:59.218Z",
-      "updatedAt": "2020-01-21T11:55:02.245Z",
-      "list_name": "Coffee Powder",
-      "list_price": "₹ 400/ kg",
-      "min_order": "250 grams",
-      "list_img": {
-        "__type": "File",
-        "name": "aa7a471f7ab16dbaae50f04a89034595_Coffee.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/aa7a471f7ab16dbaae50f04a89034595_Coffee.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_desc": "Coffee Powder from Coffee plantations of Wyanad",
-      "list_title": "Coffee Powder",
-      "rating": 5,
-      "rating_count": 2,
-      "list_type": "S"
+      "objectId": "Oncologists"
+      
     },
     {
-      "objectId": "OhGH9K7yYv",
-      "min_order": "100 grams",
-      "createdAt": "2020-01-01T12:18:37.359Z",
-      "updatedAt": "2020-01-21T11:55:02.658Z",
-      "list_price": "₹ 200 /kg",
-      "list_name": "Arrow Root Powder",
-      "list_category": "others",
-      "list_desc": "Arrow Root Powder sourced directly from farmers ",
-      "list_title": "Arrow Root Powder (Koova Podi)",
-      "pushed": true,
-      "active": true,
-      "list_img": {
-        "__type": "File",
-        "name": "22cbaffb2addebc3d6158937e54bdff5_Koovapodi.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/22cbaffb2addebc3d6158937e54bdff5_Koovapodi.jpeg"
-      },
-      "rating": 5,
-      "rating_count": 1,
-      "list_type": "S"
+      "objectId": "Ophthalmologists"
+      
     },
     {
-      "objectId": "VOJDBN6ynY",
-      "list_name": "Tapioca (Kappa)",
-      "createdAt": "2020-01-16T06:18:10.449Z",
-      "updatedAt": "2020-01-26T15:42:04.606Z",
-      "list_price": "₹ 30 /kg",
-      "list_img": {
-        "__type": "File",
-        "name": "e418bcbb48499df9737d9cc3ed60b1a5_Kappa.jpeg",
-        "url": "https://parsefiles.back4app.com/TpoqnlX7s0Qm3KcmbOkKop60Z3jOMxrHBqqC8IgP/e418bcbb48499df9737d9cc3ed60b1a5_Kappa.jpeg"
-      },
-      "active": true,
-      "pushed": true,
-      "list_title": "Tapioca (Kappa)",
-      "min_order": "1 kg",
-      "list_desc": "Best Quality Wyanadan Kappa. Minimum order 1 kg ",
-      "list_type": "S",
-      "rating": 5,
-      "rating_count": 2
+      "objectId": "Pathologists"
+      
+    },
+    {
+      "objectId": "Pediatricians"
+      
+    },
+    {
+      "objectId": "Physiatrists"
+      
+    },
+    {
+      "objectId": "Radiologists"
+      
     }
   ]
   }
